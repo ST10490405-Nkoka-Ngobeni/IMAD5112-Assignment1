@@ -1,6 +1,8 @@
 # IMAD5112-Assignment1
 Git Hub Link:  https://github.com/IIEWFL/imad5112-assignment-1-ST10490405-Nkoka-Ngobeni.git
 
+Youtube Link: https://youtu.be/kiRvoP1vqSA
+
 I developed an innovative Android app using Kotlin in Android Studio that helps users decide what to eat based on the time of day, by suggesting specific meals for specific times of the day. It does so by allowing users to enter a specific time of their day, such as "Afternoon, Mid-Afternoon etc", and then suggests a suitable meal for that Part of day.
 
 App Features:
